@@ -8,7 +8,7 @@ export const metadata: Metadata = {
         type:"website",
         url:"https://ecommerce.sovanra.me/",
         title:"Create Next App",
-        description:"This is our policy page",
+        description: 'An e-commerce website is one that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location',
         images:"https://www.istad.co/resources/img/CSTAD_120.png",
     },
 }

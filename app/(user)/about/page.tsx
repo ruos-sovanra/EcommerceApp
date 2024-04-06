@@ -8,9 +8,9 @@ export const metadata: Metadata = {
     openGraph:{
         type:"website",
         url:"https://ecommerce.sovanra.me/",
-        title:"Create Next App",
+        title:"CSTAD Ecommerce",
         description:"this is about us page",
-        images:"https://www.istad.co/resources/img/CSTAD_120.png",
+        images:"https://img.etimg.com/thumb/width-1200,height-900,imgsize-2305723,resizemode-75,msid-94767324/tech/technology/ecommerce-user-base-in-india-to-outpace-us-in-two-years-bain-report.jpg",
     },
 }
 
@@ -24,7 +24,7 @@ export default function AboutPage() {
                 <div className='flex justify-center items-center w-full lg:w-1/2 md:ps-10'>
                     <div>
                         <p className='text-center text-lg sm:text-xl lg:text-2xl font-bold text-black'>Who We Are</p>
-                        <p className='leading-7'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in eli</p>
+                        <p className='leading-7'>Welcome to  Ecommerce, where we are dedicated to making your online shopping experience as seamless and enjoyable as possible. Our journey began with a simple idea: to provide customers with a diverse selection of high-quality products at competitive prices, all from the convenience of their homes.</p>
                     </div>
                 </div>
             </section>
