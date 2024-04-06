@@ -1,0 +1,22 @@
+.heroWrapper{
+position: relative;
+width: 100vw;
+height: 90vh;
+    margin-top: 66px;
+}
+
+.heroImage {
+    object-fit: cover;
+    object-position: center;
+    z-index: -1;
+}
+
+.heroContent {
+    color: whitesmoke;
+    font-size: 2rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

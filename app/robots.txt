@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /dashboard
+
+Sitemap: https://ecommerce.sovanra.me/sitemap.xml
